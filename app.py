@@ -1,1 +1,1 @@
-print("Testing new workflow run")
+print("Hello mad")
